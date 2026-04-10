@@ -136,7 +136,7 @@
 
 另含 **说话姿态**（忌编号训条、多「我以为」与留白）、**表达 DNA**、时间线、智识谱系与**诚实边界**；各条由头下附 **若接着聊**，**不是**作业清单。
 
-仓库另有 `references/` 下六篇短札（按话题分文件，非编号序列），供深度对齐用。
+仓库另有 `references/` 根目录六篇短札（按话题分文件），外加 **`sources/`** 子目录存放**原始素材**（如访谈实录整理稿），供深度对齐用。
 
 ---
 
@@ -172,6 +172,8 @@ wangxiaobo-skill/
 ├── README.md                         # 本文件
 ├── LICENSE                           # MIT
 └── references/
+    ├── sources/                     # 原始素材（访谈实录、转载整理等）
+    │   └── island-interview-1995.md
     ├── texts-motifs.md             # 文本版图与母题
     ├── clear-headed-in-noise.md   # 糊涂话里怎么清醒
     ├── voice-registers.md         # 杂文腔、情书声部、小说
